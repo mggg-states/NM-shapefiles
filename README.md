@@ -21,9 +21,9 @@ Statewide election returns from 2016 and 2018 - from the New Mexico Secretary of
 *	`AG18D`: Number of votes for the 2018 Democratic Attorney General candidate
 *	`AG18R`: Number of votes for the 2018 Republican Attorney General candidate
 *	`AG18L`: Number of votes for the 2018 Libertarian Attorney General candidate
-*	`SS18D`: Number of votes for the 2018 Democratic Secretary of State candidate
-*	`SS18R`: Number of votes for the 2018 Republican Secretary of State candidate
-*	`SS18L`: Number of votes for the 2018 Libertarian Secretary of State candidate
+*	`SOS18D`: Number of votes for the 2018 Democratic Secretary of State candidate
+*	`SOS18R`: Number of votes for the 2018 Republican Secretary of State candidate
+*	`SOS18L`: Number of votes for the 2018 Libertarian Secretary of State candidate
 *	`SEN18D`: Number of votes for the 2018 Democratic Senate candidate
 *	`SEN18R`: Number of votes for the 2018 Republican Senate candidate
 *	`SEN18L`: Number of votes for the 2018 Libertarian Senate candidate
@@ -32,13 +32,13 @@ Statewide election returns from 2016 and 2018 - from the New Mexico Secretary of
 *	`PRES16D`: Number of votes for the 2016 Democratic Presidential candidate
 *	`PRES16R`: Number of votes for the 2016 Republican Presidential candidate
 *	`PRES16L`: Number of votes for the 2016 Libertarian Presidential candidate
-*	`SS16D`: Number of votes for the 2016 Democratic Secretary of State candidate
-*	`SS16R`: Number of votes for the 2016 Republican Secretary of State candidate
+*	`SOS16D`: Number of votes for the 2016 Democratic Secretary of State candidate
+*	`SOS16R`: Number of votes for the 2016 Republican Secretary of State candidate
 *	`CDDIST`: 2011 enacted US congressional district ID
 *	`HDIST`: 2011 enacted State House district ID
 *	`SDIST`: 2011 enacted State Senate district ID
-*	`Area`: Area of precinct
-*	`Perimeter`: Perimeter of precinct
+*	`Area`: Area of precinct in square meters
+*	`Perimeter`: Perimeter of precinct in meters
 *	`TOTPOP`: Total population
 *	`NH_WHITE`: White, non-hispanic, population
 *	`NH_BLACK`: Black, non-hispanic, population
