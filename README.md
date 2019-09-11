@@ -64,5 +64,7 @@ Statewide election returns from 2016 and 2018 - from the New Mexico Secretary of
 *	`2MOREVAP`: Two or more races, non-hispanic, voting age population
 
 ## Projection 
-This shapefile uses a WGS84/UTM zone 13N (EPSG: 32613).
+This shapefile uses a WGS84/UTM zone 13N projection (EPSG: 32613).
 
+## Rating
+We give these shapefiles an A rating. All data was obtained from the state government and was processed by MGGG staff.
